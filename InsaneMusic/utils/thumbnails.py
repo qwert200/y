@@ -1,5 +1,5 @@
- #Owner Mayank
-# Asad Ali               
+# Owner Mayank
+# Asad Ali
 # All rights reserved. © Insane © Yukki
 
 
@@ -83,7 +83,10 @@ async def gen_thumb(videoid):
         para = textwrap.wrap(title, width=32)
         j = 0
         draw.text(
-            (6, 6), f"Powered By:- © Dosto_ki_Mehfil786 & ® Insane", fill="Yellow", font=name_font
+            (6, 6),
+            f"Powered By:- © Dosto_ki_Mehfil786 & ® Insane",
+            fill="Yellow",
+            font=name_font,
         )
         draw.text(
             (600, 150),
