@@ -1,5 +1,5 @@
- #Owner Mayank
-# Asad Ali               
+# Owner Mayank
+# Asad Ali
 # All rights reserved. © Insane © Yukki
 # Subscribe On YT Jankari Ki Duniya
 

@@ -5,8 +5,8 @@ from config import BANNED_USERS
 from strings import get_command
 from InsaneMusic import app
 
- #Owner Mayank
-# Asad Ali               
+# Owner Mayank
+# Asad Ali
 # All rights reserved. © Insane © Yukki
 
 
