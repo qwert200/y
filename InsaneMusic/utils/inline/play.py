@@ -47,13 +47,13 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="Insane ᴄʜᴀᴛ 💌", url=f"https://t.me/Insane_Help365"
+                text="Insane ᴄʜᴀᴛ 💌", url=f"https://t.me/Dosto_ki_Mehfil786"
             ),
         ],
         [
             InlineKeyboardButton(
                 text=f"☀ Insane ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ☀",
-                url=f"https://t.me/Insane_ManagementBot",
+                url=f"https://t.me/Insane_Management_Robot",
             )
         ],
     ]
@@ -82,7 +82,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="Insane ᴄʜᴀᴛ 💌", url=f"https://t.me/Insane_Help365"
+                text="Insane ᴄʜᴀᴛ 💌", url=f"https://t.me/Dosto_ki_Mehfil786"
             ),
         ],
     ]
@@ -107,7 +107,7 @@ def stream_markup(_, videoid, chat_id):
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="Insane ᴄʜᴀᴛ 💌", url=f"https://t.me/Insane_Help365"
+                text="Insane ᴄʜᴀᴛ 💌", url=f"https://t.me/Dosto_ki_Mehfil786"
             ),
         ],
     ]
