@@ -136,7 +136,7 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 550),
-            f"Owner : Dr Asad Ali",
+            f"Owner : Masson",
             fill="white",
             stroke_width=1,
             stroke_fill="white",
