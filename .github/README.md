@@ -19,7 +19,11 @@
 
 <a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
-## Features ❤️”®
+## Features Of Alexa And Commands ❤️
+
+<details>
+<summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
+<br>
 
 - Thumbnail Support
 - Audio And Video
@@ -36,8 +40,12 @@
 - Broadcast Bot
 - Statistic Collector
 - Block / Unblock (restrict user for using your bot)
+</details>
 
-## Commands ❤️
+#### Overall Basic Commands 😂
+<details>
+<summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
+<br>
 
 - `/play <song name>` - play song you requested
 - `/playlist` - Show now playing list
@@ -46,8 +54,14 @@
 - `/vsong <song name>` - download videos you want quickly
 - `/lyric <song name>` - lyrics scrapper
 - `/vk <song name>` - generate song without download
+</details>
 
-#### Admins Only 😜
+### Only Admin Can Exicute 🙄
+
+<details>
+<summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
+<br>
+    
 - `/player` - open music player settings panel
 - `/pause` - pause song play
 - `/resume` - resume song play
@@ -63,20 +77,31 @@
 - `/auth` - authorized people to access the admin commands
 - `/deauth` - deauthorized people to access the admin commands
 - `/control` - open the music player control panel
+ </details>
+    
+  ### Sudo Commands 🤭
+<details>
+<summary><b>sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
+<br>
 
-### Sudo User ❣️
-- `/stats` - see the bot statistic
-- `/pmpermit on | off` turn on/off the assistant pmpermit
-- `/leaveall` - order the assistant to leave all groups
+- `/broadcast` - order the assistant to leave all groups
 - `/gban` - gban user
+</details>
 
 
-### Owner Only 🕺
+### Only Owner 🙈
+<details>
+<summary><b>ᴏɴʟʏ ᴏᴡɴᴇʀ</b></summary>
+<br>
+
 - `/broadcast` - send a broadcast message from the bot
 - `/block` - block people for using your bot
 - `/unblock` - unblock people you blocked for using your bot
 - `/blocklist` - show the list of all people who's blocked for using your bot
+</details>
 
+
+</details>
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
